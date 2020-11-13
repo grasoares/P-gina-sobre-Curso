@@ -1,1 +1,1 @@
-# P-gina-sobre-Curso
+# Pagina-descricao-Curso
